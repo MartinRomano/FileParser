@@ -1,0 +1,12 @@
+C:\Users\navegador\Desktop\clase10\FileParser\FileParser\bin\Debug\FileParser.exe.config
+C:\Users\navegador\Desktop\clase10\FileParser\FileParser\bin\Debug\FileParser.exe
+C:\Users\navegador\Desktop\clase10\FileParser\FileParser\bin\Debug\FileParser.pdb
+C:\Users\navegador\Desktop\clase10\FileParser\FileParser\obj\Debug\FileParser.csprojResolveAssemblyReference.cache
+C:\Users\navegador\Desktop\clase10\FileParser\FileParser\obj\Debug\FileParser.exe
+C:\Users\navegador\Desktop\clase10\FileParser\FileParser\obj\Debug\FileParser.pdb
+C:\Users\Martin\Desktop\Estudio\UAI\Programacion I\Clase 10\FileParser\FileParser\bin\Debug\FileParser.exe.config
+C:\Users\Martin\Desktop\Estudio\UAI\Programacion I\Clase 10\FileParser\FileParser\bin\Debug\FileParser.exe
+C:\Users\Martin\Desktop\Estudio\UAI\Programacion I\Clase 10\FileParser\FileParser\bin\Debug\FileParser.pdb
+C:\Users\Martin\Desktop\Estudio\UAI\Programacion I\Clase 10\FileParser\FileParser\obj\Debug\FileParser.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Desktop\Estudio\UAI\Programacion I\Clase 10\FileParser\FileParser\obj\Debug\FileParser.exe
+C:\Users\Martin\Desktop\Estudio\UAI\Programacion I\Clase 10\FileParser\FileParser\obj\Debug\FileParser.pdb
